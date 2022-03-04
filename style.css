@@ -14,8 +14,7 @@ font-family: 'Smooch Sans', sans-serif;
 
 
 body{
-    margin: 0;
-     
+    margin: 0; 
 }
 a{
     text-decoration: none;
@@ -35,6 +34,14 @@ h1:hover{
 }
 h2{
     font-family: 'Exo 2', sans-serif;
+}
+h3{
+    background-color: #4d4d4d;
+    padding:2%;
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+    border-radius: 20px;
 }
 
 
@@ -65,6 +72,7 @@ ul li:hover{
 #logo{
     font-family: 'Comfortaa', cursive; 
 }
+
 
 /* main-content */
 
@@ -129,8 +137,7 @@ ul li:hover{
     border-radius: 15px;
     margin-top:2%;
     height: 200px;
-    width: 300px;
-    
+    width: 300px; 
 }
 
 /* table */
@@ -186,11 +193,7 @@ td{
         justify-content: center; 
     }
 } 
-@media only screen and (max-width: 600px) {
-    .exclu img{
-        
-    }
-} 
+
 
 
 
