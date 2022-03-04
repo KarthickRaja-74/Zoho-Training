@@ -119,7 +119,7 @@ ul li:hover{
 }
 .topsellcon{
     display: flex;
-    flex-basis: 600px;
+    flex-basis: 510px;
     flex-direction: column;
     padding: 1%;
     margin-left: 2%;
